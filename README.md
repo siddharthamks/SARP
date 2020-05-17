@@ -1,4 +1,4 @@
-# Visit Release page to get updates! https://github.com/siddharthamks/SARP/releases
+# Visit <a href = "https://github.com/siddharthamks/SARP/releases">Releases</a> page to get updates! 
 
 # Basic Features:
 
