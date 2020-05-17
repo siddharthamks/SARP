@@ -1,0 +1,50 @@
+[05/15/2020 | 07:42:02] * Damonsh(1) has used /get 0
+[05/15/2020 | 07:42:07] * Damonsh(1) has used /get 0
+[05/15/2020 | 07:42:12] * Damonsh(1) has used /get
+[05/15/2020 | 07:42:29] * Damonsh(1) has used /get 0
+[05/15/2020 | 07:43:28] * Damonsh(1) has used /goto 0
+[05/15/2020 | 07:43:37] * Damonsh(1) has used /startad
+[05/15/2020 | 07:43:39] * Damonsh(1) has used /startad
+[05/15/2020 | 07:43:42] * Damonsh(1) has used /startad
+[05/15/2020 | 07:44:21] * Damonsh(1) has used /gotoad
+[05/15/2020 | 07:45:32] * Damonsh(1) has used /get 0
+[05/15/2020 | 07:45:38] * Damonsh(1) has used /setlevel 0 7
+[05/15/2020 | 07:45:41] * Damonsh(1) has used /setlevel 0 5
+[05/15/2020 | 07:46:31] * Damonsh(1) has used /open
+[05/15/2020 | 07:46:42] * Damonsh(1) has used /gate
+[05/15/2020 | 07:46:55] * Damonsh(1) has used /gate
+[05/15/2020 | 07:46:55] * Damonsh(1) has used /gate
+[05/15/2020 | 07:47:11] * Damonsh(1) has used /gate
+[05/15/2020 | 07:47:48] * Damonsh(1) has used /createbusiness
+[05/15/2020 | 07:47:57] * Damonsh(1) has used /createbusiness 10000 100 6
+[05/15/2020 | 07:48:07] * Damonsh(1) has used /giveallcash 100000
+[05/15/2020 | 07:50:50] * Damonsh(1) has used /setclevel
+[05/15/2020 | 07:51:36] * Damonsh(1) has used /gate
+[05/15/2020 | 07:51:40] * Damonsh(1) has used /gate
+[05/15/2020 | 07:52:46] * Damonsh(1) has used /bcmds
+[05/15/2020 | 07:52:48] * Damonsh(1) has used /cmds
+[05/15/2020 | 07:52:51] * Damonsh(1) has used /stats
+[05/15/2020 | 07:52:53] * Damonsh(1) has used /stats 0
+[05/15/2020 | 07:52:55] * Damonsh(1) has used /stats 1
+[05/15/2020 | 07:53:03] * Damonsh(1) has used /setallskin
+[05/15/2020 | 07:53:04] * Damonsh(1) has used /acmds
+[05/15/2020 | 07:53:10] * Damonsh(1) has used /setmember
+[05/15/2020 | 07:53:13] * Damonsh(1) has used /setmember 1 1
+[05/15/2020 | 07:53:34] * Damonsh(1) has used /editgate
+[05/15/2020 | 07:53:39] * Damonsh(1) has used /editgate
+[05/15/2020 | 07:54:08] * Damonsh(1) has used /setalltime 20
+[05/15/2020 | 07:54:34] * Damonsh(1) has used /creategang
+[05/15/2020 | 07:54:39] * Damonsh(1) has used /setscore 1 99999999
+[05/15/2020 | 07:54:41] * Damonsh(1) has used /creategang
+[05/15/2020 | 07:55:02] * Damonsh(1) has used /gcmds
+[05/15/2020 | 07:55:06] * Damonsh(1) has used /gangcmds
+[05/15/2020 | 07:55:15] * Damonsh(1) has used /territory
+[05/15/2020 | 07:55:17] * Damonsh(1) has used /gangcmds
+[05/15/2020 | 07:55:25] * Damonsh(1) has used /territory
+[05/15/2020 | 07:55:28] * Damonsh(1) has used /gangcmds
+[05/15/2020 | 07:55:30] * Damonsh(1) has used /g
+[05/15/2020 | 07:55:36] * Damonsh(1) has used /g gaag
+[05/15/2020 | 07:55:41] * Damonsh(1) has used /ganginvite
+[05/15/2020 | 07:55:43] * Damonsh(1) has used /ganginvite 0
+[05/15/2020 | 07:55:48] * Damonsh(1) has used /gcmds
+[05/15/2020 | 07:55:50] * Damonsh(1) has used /gangcmds
