@@ -1,3 +1,5 @@
+# Visit Release page to get updates! https://github.com/siddharthamks/SARP/releases
+
 # Basic Features:
 
     Proper User Registration system.
